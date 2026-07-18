@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Carl Emil 👋
 
-<!--
-**carlemil112/carlemil112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BEng AI student at Aalborg University, studying Design and Application of Artificial Intelligence (DAKI), with hands-on experience building end-to-end ML systems - from data pipelines and model training to production deployment.
 
-Here are some ideas to get you started:
+**Currently building:** [Danish electricity price forecasting system](https://github.com/carlemil112/electricity_price_forecast_from_weather) - predicting day-ahead prices from wind data using LightGBM, FastAPI, and MLflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+- ML/AI: PyTorch, TensorFlow, HuggingFace, CNN, GRU, LSTM, LLMs
+- MLOps: MLflow, DVC, Docker, Jenkins, DeepSpeed, SLURM
+- Serving: FastAPI, REST APIs, SQLAlchemy
+- Infrastructure: HPC (SLURM/Singularity), home Linux server
+
+**Currently:** Student Assistant - Software Development & AI, Hjørring Kommune (starting August 2026) 
+**Looking for:** Curricular internship (Feb–Jun 2027) in ML engineering, MLOps, or production AI systems
+
+📫 carl.emil.hejslet@gmail.com
